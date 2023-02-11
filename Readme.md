@@ -14,4 +14,4 @@
 3)git checkout imy vetki-perexodim na etu vetku
 
 *git commit -a -otkrivaem redaktor
->>>>>>> change_readme_branche
+
