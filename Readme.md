@@ -9,3 +9,4 @@
 2)git branche - proveryem
 3)git checkout imy vetki-perexodim na etu vetku
 
+*git commit -a -otkrivaem redaktor
