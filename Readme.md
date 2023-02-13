@@ -14,4 +14,8 @@
 3)git checkout imy vetki-perexodim na etu vetku
 
 *git commit -a -otkrivaem redaktor
+## GitHub
+*cd- perexod v nujnuy nam papku
+*git log-pokazivaem izmeneniy ,kommiti i td
+*git log --graph -pokazivaet istoriy vetok
 
